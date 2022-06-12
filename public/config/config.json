@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x258Cefaa251fFeB2C6d55ab6B7794514370e3E6F",
+  "SCAN_LINK": "https://etherscan.io/address/0x258Cefaa251fFeB2C6d55ab6B7794514370e3E6F#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Weekly Wei",
+  "SYMBOL": "GMN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/feesh",
+  "SHOW_BACKGROUND": true
+}
